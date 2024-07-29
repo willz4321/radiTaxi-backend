@@ -1,0 +1,7 @@
+node_modules
+logs
+.env
+
+package-lock.json
+
+public/media/audios
